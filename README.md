@@ -14,3 +14,4 @@ These are solutions to problems from [Project Euler](https://projecteuler.net/).
 | Ruby       |       6 |
 | Rust       |       7 |
 | JavaScript |       8 |
+| Perl       |       9 |
