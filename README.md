@@ -12,4 +12,4 @@ These are solutions to problems from [Project Euler](https://projecteuler.net/).
 | PHP      |       4 |
 | Python   |       5 |
 | Ruby     |       6 |
-
+| Rust     |       7 |
