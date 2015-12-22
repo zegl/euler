@@ -4,12 +4,13 @@ These are solutions to problems from [Project Euler](https://projecteuler.net/).
 
 ## Languages used
 
-| Language | Problem |
-| -------- | ------- |
-| C++      |       1 |
-| C        |       2 |
-| Go       |       3 |
-| PHP      |       4 |
-| Python   |       5 |
-| Ruby     |       6 |
-| Rust     |       7 |
+|  Language  | Problem |
+| ---------- | ------- |
+| C++        |       1 |
+| C          |       2 |
+| Go         |       3 |
+| PHP        |       4 |
+| Python     |       5 |
+| Ruby       |       6 |
+| Rust       |       7 |
+| JavaScript |       8 |
